@@ -12,7 +12,7 @@ To move Chowder, use the arrow keys to move left and right right. Use the space 
 ## Goal
 Finish each level and you will enter a new world. Jump on an enemies head to kill them. Get through all of the worlds without dying to win the game. 
 
-# Extra
+## Extra
 Watch out for the underwater level in Bikini Bottom, gravity will have less on an impact on you there. 
 
 # Screenshots
