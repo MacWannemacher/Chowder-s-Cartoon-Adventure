@@ -2,12 +2,15 @@
 
 ## Background
 
-Chowder has lost his burple nurples throughout the cartoon universe. Chowder must go through these different worlds to retrieve his burple nurples that were lost. He must avoid his friends and enemies who are trying to stop him from retrieving his sweets. :hankey:
+Chowder's burple nurples were stolen by characters throughout the cartoon universe who just wanted a taste of Chowder's precious treat.  Chowder must go through these different worlds to retrieve his burple nurples because he is very hungry and does not like to share. He must avoid or kill his friends and enemies who have stolen his precious sweets. :hankey:
 
 # How to Play
 
 ## Movement
-To move Chowder, use the arrow keys to move left and right right. Use the space bar to jump.
+To move Chowder, use the arrow keys to move left and right. Use the space bar to jump.
+
+## Scoring
+You will get 20 points for every burple nurple you collect and 10 points for every enemy that you kill.
 
 ## Goal
 Finish each level and you will enter a new world. Jump on an enemies head to kill them. Get through all of the worlds without dying to win the game. 
